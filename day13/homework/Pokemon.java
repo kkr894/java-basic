@@ -44,3 +44,8 @@ public class Pokemon {
 	
 	// Quiz01에서 두 Pokemon 생성, 정의한 메서드를 자유롭게 테스트
 }
+
+
+
+
+
